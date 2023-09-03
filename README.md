@@ -27,8 +27,7 @@
 9. **Playlist Analysis:**
    Understanding user-created playlists can provide insights into their music curation preferences. Analyze factors like playlist length, song diversity, and common track combinations.
 
-10. **Time Series Analysis:**
-    Analyzing time-based data can reveal trends over time, such as the rise and fall of certain songs or genres. This information is useful for predicting future trends.
+10.
 
 11. **Sentiment Analysis:**
     You could perform sentiment analysis on song lyrics or user-generated content to understand the emotional tone of different songs. This could help identify popular emotional themes.
